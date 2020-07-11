@@ -1,4 +1,7 @@
 # saathiphase1
+Saathi is a new and advanced social media. focusing on anonymity, to ensure
+judment free world. This platform allows user to generate feeds
+according to him mood and interest.
 ![Banner](https://github.com/anjaliaryain/saathiphase1/blob/master/1.png?raw=true)
 ![Problem1](https://github.com/anjaliaryain/saathiphase1/blob/master/2.png?raw=true)
 ![Problem2](https://github.com/anjaliaryain/saathiphase1/blob/master/3.png?raw=true)
