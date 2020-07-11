@@ -1,4 +1,4 @@
-#Saathi Phase One- Project started on 04-07-2020 
+# Saathi Phase One- Project started on 04-07-2020 
 
 A new advance social media, focusing on anonymity, to ensure
 judment free world. This platform allows user to generate feeds
