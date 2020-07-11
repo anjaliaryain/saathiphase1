@@ -1,12 +1,15 @@
-# Create Social Network ![npm](https://img.shields.io/npm/dm/create-social-network) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
+#Saathi Phase One- Project started on 04-07-2020 
 
-Create Social Network is a educational project. The main idea is to demonstrate how one can build a large scalable project with Javascript. However you get the core functionality of social network by running one command and then you can build more on top of that.
+A new advance social media, focusing on anonymity, to ensure
+judment free world. This platform allows user to generate feeds
+according to him mood and interest.
+
 
 Repository is divided into three main packages:
 
 - **api** This package contains API for Social Networking App, built with Nodejs, Express, GraphQL, Apollo Server and MongoDB with Mongoose.
 - **frontend** Is a frontend for Social Networking App, built with React, GraphQL, Apollo Client and Styled Components.
-- **lib** Is a Nodejs command line script, that helps users to install the Social Networking App with one command. This package is published to NPM as a `create-social-network`
+- **lib** Is a Nodejs command line script, that helps users to install the Social Networking App with one command. 
 
 ## Features
 
@@ -23,6 +26,9 @@ Repository is divided into three main packages:
 
 
 ## Screenshots of the app
-
+![](https://github.com/anjaliaryain/saathiphase1/blob/master/saathi%20ss/loading.PNG?raw=true)![](https://github.com/anjaliaryain/saathiphase1/blob/master/saathi%20ss/1.PNG?raw=true)![](https://github.com/anjaliaryain/saathiphase1/blob/master/saathi%20ss/2.PNG?raw=true)
+![](https://github.com/anjaliaryain/saathiphase1/blob/master/saathi%20ss/3.PNG?raw=true)![](https://github.com/anjaliaryain/saathiphase1/blob/master/saathi%20ss/4.PNG?raw=true)![](https://github.com/anjaliaryain/saathiphase1/blob/master/saathi%20ss/5.PNG?raw=true)
+![](https://github.com/anjaliaryain/saathiphase1/blob/master/saathi%20ss/6.PNG?raw=true)![](https://github.com/anjaliaryain/saathiphase1/blob/master/saathi%20ss/7.PNG?raw=true)![](https://github.com/anjaliaryain/saathiphase1/blob/master/saathi%20ss/8.PNG?raw=true)
+![](https://github.com/anjaliaryain/saathiphase1/blob/master/saathi%20ss/9.PNG?raw=true)
 
 
